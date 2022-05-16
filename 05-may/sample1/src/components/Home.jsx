@@ -29,7 +29,7 @@ export const Home = () =>
         <Nav />
             <br /><br /><br /><br />
             <div>
-                <h3>Check The Day : </h3>
+                <h3>-= Check The Day =-</h3>
                 <br/><br/>
                 <div className='maininp'>
                     <div className='inpdate'>

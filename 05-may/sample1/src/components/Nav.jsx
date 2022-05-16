@@ -19,10 +19,10 @@ export const Nav = () =>
                   };
             });
 
-
         return(
         <>            
             <div className="Nav">            
+                <h3>{live_time}</h3>
                 <h3>{live_time}</h3>
             </div>               
 
